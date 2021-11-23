@@ -1,0 +1,62 @@
+    body {
+        background-color: #001219;
+} 
+    h1 {
+        color: #f8f8f8;
+        font-family: 'Lucida Sans', sans-serif;
+}
+
+    .foto-jp {
+         border-radius: 50%;
+            }
+
+
+    p {
+        color: #e8f0f8;
+        font-family: 'Lucida Sans', sans-serif;
+        line-height: 20px;
+         text-align: left;
+}
+
+
+    #empatia {
+        color: #e8f0f7;
+        font-size: large;
+        font-family: 'Lucida Sans', sans-serif;
+}
+
+
+    .res-conflitos {
+        color: #e8f0f7;
+        font-size: medium;
+        font-family: 'Lucida Sans', sans-serif;
+}
+
+
+    .comprometimento {
+        color: #e8f0f7;
+        font-size: medium;
+        font-family: 'Lucida Sans', sans-serif;
+}
+
+
+    .decoration {
+        text-decoration: none;
+        font-family: 'Lucida Sans', sans-serif;
+}
+
+
+    h3 {
+        color: #e8f0f8;
+        font-family: 'Lucida Sans', sans-serif;
+        font-size: 25px;
+        text-decoration: underline;
+}
+
+
+    h4 {
+        color: #e8f0f8;
+        font-family: 'Lucida Sans', sans-serif;
+        font-size: 25px;
+        text-decoration: underline;
+}
