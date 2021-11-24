@@ -1,10 +1,28 @@
     body {
-        background-color: #001219;
+        background-color: #03202b;
+        padding: 1%;
 } 
+
+
+   #Foto {
+       float:left;
+        height: 150px;
+        padding: 3px;
+        background-color: rgb(255, 255, 255);
+   }
+
+
+   .header-img-text {
+       height: 200px;
+       position: relative;
+   }
+
     h1 {
         color: #f8f8f8;
         font-family: 'Lucida Sans', sans-serif;
+        text-align: center;
 }
+
 
     .foto-jp {
          border-radius: 50%;
@@ -16,6 +34,9 @@
         font-family: 'Lucida Sans', sans-serif;
         line-height: 20px;
          text-align: left;
+         position: absolute;
+         left: 12%;
+         top: 30%;
 }
 
 
@@ -42,7 +63,7 @@
 
     .decoration {
         text-decoration: none;
-        font-family: 'Lucida Sans', sans-serif;
+        font-family: 'Lucida Sans', sans-serif;       
 }
 
 
@@ -51,6 +72,7 @@
         font-family: 'Lucida Sans', sans-serif;
         font-size: 25px;
         text-decoration: underline;
+        padding-left: 12%;        
 }
 
 
@@ -59,4 +81,9 @@
         font-family: 'Lucida Sans', sans-serif;
         font-size: 25px;
         text-decoration: underline;
+}
+
+ul li:nth-child(odd) {
+    background-color: rgba(44, 27, 27, 0.603);
+    width: 11%;
 }
